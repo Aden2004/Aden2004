@@ -3,10 +3,15 @@
 Final-year Computer Science student at **Rachna College of Engineering & Technology (UET Lahore)**, with a perfect 4.0 CGPA across 6 semesters. I build full-stack apps, dabble in deep learning, and like turning ideas into working products.
 
 -BS Computer Science — Rachna CET (UET Lahore), 2023–2027
+
 -Front-end Web Development Intern @ Qubitars Technologies
+
 -Into AI/Deep Learning, databases, and full-stack web development
+
 -Currently exploring computer vision and medical image analysis
+
 -Reach me at adenbutt832@gmail.com
+
 -[LinkedIn](https://linkedin.com/in/adenbutt)
 
 ---
