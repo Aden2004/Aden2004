@@ -41,8 +41,8 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ### 📊 GitHub Stats
 
-![Aden's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenbutt&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adenbutt&layout=compact)
+![Aden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aden2004&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aden2004&layout=compact)
 
 ---
 
