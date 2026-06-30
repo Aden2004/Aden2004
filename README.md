@@ -1,13 +1,13 @@
-# Hi, I'm Aden Sohail Butt 👋
+# Hi, I'm Aden Sohail Butt
 
 Final-year Computer Science student at **Rachna College of Engineering & Technology (UET Lahore)**, with a perfect 4.0 CGPA across 6 semesters. I build full-stack apps, dabble in deep learning, and like turning ideas into working products.
 
-- 🎓 BS Computer Science — Rachna CET (UET Lahore), 2023–2027
-- 💼 Front-end Web Development Intern @ Qubitars Technologies
-- 🧠 Into AI/Deep Learning, databases, and full-stack web development
-- 🌱 Currently exploring computer vision and medical image analysis
-- 📫 Reach me at adenbutt832@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/adenbutt)
+-BS Computer Science — Rachna CET (UET Lahore), 2023–2027
+-Front-end Web Development Intern @ Qubitars Technologies
+-Into AI/Deep Learning, databases, and full-stack web development
+-Currently exploring computer vision and medical image analysis
+-Reach me at adenbutt832@gmail.com
+-[LinkedIn](https://linkedin.com/in/adenbutt)
 
 ---
 
@@ -29,13 +29,13 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ### 🚀 Featured Projects
 
-- **🩺 Diabetic Retinopathy Detection** — ResNet-based deep learning model classifying retinal fundus images (Messidor, APTOS, EyePACS datasets)
-- **🫁 Chest X-ray Disease Classification** — CNN-based medical image classifier with preprocessing and augmentation pipelines
-- **🥔 Potato Disease Classification** — Full-stack AI app (FastAPI + React Native) with a Hugging Face-deployed model for real-time crop disease detection
-- **🌱 Green Heaven** — Farmers & gardeners app; built the Discussion Corner end-to-end (frontend UI + REST API + database)
-- **🔒 Concurrent LAN Database Access System** — Multi-user database system with table-level locking for concurrency control
-- **📦 Inventory Management System** — Full inventory app with normalized SQL schema, stock tracking, and low-stock alerts
-- **🖱️ Custom Cursor Website** — Custom cursor animations + Instagram-style like interaction, pure HTML/CSS/JS
+- **Diabetic Retinopathy Detection** — ResNet-based deep learning model classifying retinal fundus images (Messidor, APTOS, EyePACS datasets)
+- **Chest X-ray Disease Classification** — CNN-based medical image classifier with preprocessing and augmentation pipelines
+- **Potato Disease Classification** — Full-stack AI app (FastAPI + React Native) with a Hugging Face-deployed model for real-time crop disease detection
+- **Green Heaven** — Farmers & gardeners app; built the Discussion Corner end-to-end (frontend UI + REST API + database)
+- **Concurrent LAN Database Access System** — Multi-user database system with table-level locking for concurrency control
+- **Inventory Management System** — Full inventory app with normalized SQL schema, stock tracking, and low-stock alerts
+- **Custom Cursor Website** — Custom cursor animations + Instagram-style like interaction, pure HTML/CSS/JS
 
 ---
 
