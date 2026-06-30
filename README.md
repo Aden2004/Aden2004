@@ -16,7 +16,7 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -32,7 +32,7 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **Diabetic Retinopathy Detection** — ResNet-based deep learning model classifying retinal fundus images (Messidor, APTOS, EyePACS datasets)
 - **Chest X-ray Disease Classification** — CNN-based medical image classifier with preprocessing and augmentation pipelines
@@ -44,7 +44,7 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aden2004&show_icons=true&theme=tokyonight)
 
@@ -52,7 +52,7 @@ Final-year Computer Science student at **Rachna College of Engineering & Technol
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adenbutt)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adenbutt832@gmail.com)
